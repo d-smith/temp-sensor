@@ -1,0 +1,12 @@
+{
+  "name": "TempSensorServer",
+  "description": "",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "express": "^4.10.0",
+    "socket.io": "latest"
+  }
+}
