@@ -1,3 +1,5 @@
+"use strict";
+
 function randomTemp (low, high) {
     return Math.random() * (high - low + 1) + low;
 }
